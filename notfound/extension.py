@@ -1,7 +1,5 @@
-import html
 import docutils
 import os
-import sphinx
 import warnings
 
 from sphinx.environment.collectors import EnvironmentCollector
